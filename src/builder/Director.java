@@ -4,7 +4,7 @@ package builder;
  * @program: JavaPractice
  * @description: 指挥类
  * @author: mirrorming
- * @create: 2018-07-12 16:26
+ * @create: 2018-07-04 16:26
  **/
 
 public class Director {
@@ -23,7 +23,7 @@ public class Director {
      * @Param: []
      * @return: Product
      * @Author: mirrorming
-     * @Date: 2018/07/12
+     * @Date: 2018/07/04
      */
     public Product construct() {
         builder.buildPartA();
