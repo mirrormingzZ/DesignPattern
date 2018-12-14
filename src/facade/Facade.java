@@ -6,7 +6,6 @@ package facade;
  * @author: mirrorming
  * @create: 2018-07-06 18:56
  **/
-
 public class Facade {
     private ModelA modelA = null;
     private ModelB modelB = null;
