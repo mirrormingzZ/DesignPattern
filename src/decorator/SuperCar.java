@@ -4,7 +4,7 @@ package decorator;
  * @program: JavaPractice
  * @description: Decorator装饰角色
  * @author: mirrorming
- * @create: 2018-07-13 15:23
+ * @create: 2018-07-05 15:23
  **/
 
 public class SuperCar implements ICar {

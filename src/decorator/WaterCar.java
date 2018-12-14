@@ -4,7 +4,7 @@ package decorator;
  * @program: DesignPattern
  * @description: ConcreteDecorator具体装饰角色
  * @author: mirrorming
- * @create: 2018-07-13 15:43
+ * @create: 2018-07-05 15:43
  **/
 
 public class WaterCar extends SuperCar {
