@@ -1,6 +1,8 @@
 package adapter;
 
-//对象适配器
+/**
+ * 对象适配器
+ */
 public class ObjectAdapter implements Target {
     private Adaptee adaptee;
 
