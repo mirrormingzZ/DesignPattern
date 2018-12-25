@@ -4,7 +4,7 @@ package abstractfactory;
  * @program: DesignPattern
  * @description: 高端汽车工厂
  * @author: mirrorming
- * @create: 2018-12-25 08:46
+ * @create: 2018-07-11 08:46
  **/
 
 public class LuxuryCarFactory implements CarFactory {

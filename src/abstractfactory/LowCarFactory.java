@@ -5,7 +5,7 @@ package abstractfactory;
  * @program: DesignPattern
  * @description: 低端汽车工厂
  * @author: mirrorming
- * @create: 2018-12-25 08:47
+ * @create: 2018-07-11 08:47
  **/
 
 public class LowCarFactory implements CarFactory {

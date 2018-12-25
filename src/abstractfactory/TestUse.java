@@ -4,7 +4,7 @@ package abstractfactory;
  * @program: DesignPattern
  * @description: 测试类
  * @author: mirrorming
- * @create: 2018-12-25 08:48
+ * @create: 2018-07-11 08:48
  **/
 
 public class TestUse {

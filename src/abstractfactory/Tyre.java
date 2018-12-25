@@ -4,7 +4,7 @@ package abstractfactory;
  * @program: DesignPattern
  * @description: 轮胎
  * @author: mirrorming
- * @create: 2018-12-25 08:40
+ * @create: 2018-07-11 08:40
  **/
 
 public interface Tyre {
