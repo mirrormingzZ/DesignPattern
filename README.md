@@ -408,7 +408,6 @@ public class TestUse {
 - 对象的构建过程暴露
 
 
-
 ## adapter模式
 
 ### 适配器模式定义
